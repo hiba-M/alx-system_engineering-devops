@@ -1,3 +1,4 @@
-#the repositoty is about Shell
-Bash project 
+#the repositoty is about Shell\n
+Bash project \n
+
 
