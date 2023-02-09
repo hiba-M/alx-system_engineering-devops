@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -d ugo+x cd ..
+chmod -R +x cd ..
